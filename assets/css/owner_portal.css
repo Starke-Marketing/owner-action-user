@@ -1,0 +1,198 @@
+.welcome-sec .oppnity-text h1, .welcome-sec .update-text h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #1c5c90;
+    line-height: 38px;
+    font-family: "Montserrat", Sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.welcome-sec .oppnity-text p {
+    color: #1c5c90;
+    font-family: "Montserrat", Sans-serif;
+    line-height: 1.5em;
+	font-size: 17px;
+	font-weight: 400;
+}
+.purchase.about-two {
+    background-color: #fff;
+    /*/background-image: linear-gradient( 90deg, #194299 0%, #2CA2D4 100%);*/
+}
+.slider_portal .purchase.about-two h6 {
+    color: #000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 29px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+	font-weight: 500;
+}
+.slider_portal .purchase.about-two p {
+    color: #000;
+    font-family: "Montserrat", Sans-serif;
+    line-height: 1.5em;
+	font-size: 17px;
+	font-weight: 400;
+}
+.slider_portal .purchase button.thanks-next-lets {
+	font-size: 13px;
+    text-transform: uppercase;
+    color: #000;
+	background-color: rgba(2, 1, 1, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    border-radius: 100px;
+    padding: 15px 40px;
+	margin: 0 auto;
+	display: inline-block;
+	font-weight:600;
+}
+.purchase.about-two.thanks-page h6 {
+	font-family: "Montserrat", Sans-serif;
+}
+.slider_portal .thanks_portal input[type=radio] {
+    width: 30px;
+    margin-top: 5px !important;
+}
+.purchase button.thanks-previous, .welcome-sec .purchase.about-two a.thanks-next, .next-main a.close-next, .next-main a.next-screen, .welcome-sec .form-part input[type=submit] {
+	font-size: 13px !important;
+    text-transform: uppercase;
+    color: #FFFFFF;
+	background-color: rgba(2, 1, 1, 0);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    border-radius: 100px;
+	padding: 15px 40px;
+	font-weight:600;
+}
+.welcome-sec .already, .welcome-sec .purchase.form-area {
+    background-color: transparent;
+    background-image: linear-gradient( 
+90deg
+ , #194299 0%, #2CA2D4 100%);
+}
+.welcome-sec .already h6 {
+	font-family: "Montserrat", Sans-serif;
+	font-weight: 500 !important;
+}
+p.error_button, div#mssg {
+    color: red;
+    font-size: 18px;
+}
+.infor-mation-sec .oppnity-text h1 {
+    font-size: 30px;
+}
+.infor-mation-sec h2.percentage_heading {
+    letter-spacing: 1px;
+}
+.infor-mation-sec .progress {
+    border-radius: 9px;
+    border: 0;
+    height: 4px;
+	margin-top: 15px;
+}
+.infor-mation-sec .your-idea h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+.infor-mation-sec .your-idea aside {
+    border: 1px solid #e2e2e2 !important;
+}
+.infor-mation-sec .your-idea form {
+    border: 0px solid #e2e2e2 !important;
+	padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.infor-mation-sec .your-idea input[type="checkbox"] {
+    border-radius: 50% !important;
+    border-color: #5078a2;
+}
+.infor-mation-sec .your-idea input[type="checkbox"]:checked {
+	
+}
+.infor-mation-sec .your-idea span.tax-card.dash_cl aside {
+    padding: 15px;
+}
+.infor-mation-sec .provider {
+    border: 1px solid #e2e2e2 !important;
+    border-top: 0;
+}
+.infor-mation-sec .provider a {
+/*     border-bottom: 1px solid #e2e2e2 !important;
+    border-top: 1px solid #e2e2e2 !important; */
+}
+.infor-mation-sec .provider li {
+	font-family: 'Montserrat', sans-serif;
+}
+.infor-mation-sec .provider.more-note a {
+    font-size: 18px;
+    color: #5078a2;
+    font-family: 'Montserrat', sans-serif;
+    border-top: 0 !important;
+}
+.task-sec .oppnity-text h2 {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+.task-sec .techno h6, .task-sec .techno li {
+    font-family: 'Montserrat', sans-serif;
+}
+.infor-mation-sec .your-idea span.tax-card aside {
+        flex: 0 0 100% !important;
+    max-width: 100% !important;
+    margin: 0 0px -1px 0 !important;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    cursor: pointer;
+    opacity: .9;
+    transition: all .3s;
+    margin-bottom: -1px;
+}
+.infor-mation-sec .your-idea span.tax-card aside .view_details_ques {
+	font-size: 16px;
+    justify-content: flex-end;
+    align-items: flex-end;
+    display: flex !important;
+    flex: 1;
+	opacity: 0;
+    visibility: hidden;
+	color: #1c5a8f;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	align-items: center;
+}
+.infor-mation-sec .your-idea span.tax-card aside .view_details_ques a {
+	color: #1c5a8f;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+}
+.infor-mation-sec .your-idea span.tax-card aside:hover .view_details_ques {
+    opacity: 1;
+    visibility: visible;
+}
+span.input_col {
+    padding: 0 10px;
+    flex: 5;
+	display: flex;
+    justify-content: space-between;
+}
+.infor-mation-sec .your-idea span.tax-card {
+    width: 100%;
+}
+a.viewall_question {
+	margin-top: 10px;
+	float: inherit !important;
+}
+.infor-mation-sec .your-idea span.tax-card aside.success:before {
+    padding: 15px 5px 15px 49px !important;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+span.input_col span {
+    font-size: 13px !important;
+    color: #71777f;
+    font-family: 'Montserrat', sans-serif;
+}

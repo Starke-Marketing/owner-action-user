@@ -1,0 +1,16 @@
+[29-May-2021 06:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 1
+[29-May-2021 06:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 5
+[29-May-2021 06:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 5
+[29-May-2021 06:30:29 UTC] PHP Warning:  require_once(/home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/admin.php): failed to open stream: No such file or directory in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 10
+[29-May-2021 06:30:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/admin.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 10
+[29-May-2021 06:31:16 UTC] PHP Warning:  require_once(/home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/admin.php): failed to open stream: No such file or directory in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 10
+[29-May-2021 06:31:16 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/admin.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u977233020/domains/sagmetic.tech/public_html/wp/2021/slider/wp-content/plugins/owner-action-user/admin/edit-user.php on line 10
